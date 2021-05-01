@@ -10,6 +10,6 @@ Run Chrome browser without CORS
 
 Windows:
 
-Right click on desktop, add new shortcut
-Add the target as "[PATH_TO_CHROME]\chrome.exe" --disable-web-security --disable-gpu --user-data-dir=~/chromeTemp
-Click OK.
+1) Right click on desktop, add new shortcut.
+2) Add the target as "[PATH_TO_CHROME]\chrome.exe" --disable-web-security --disable-gpu --user-data-dir=~/chromeTemp
+3) Click OK.
